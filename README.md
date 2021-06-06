@@ -29,6 +29,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Youtube tutoial
+# Youtube tutorial
 
 From [Dev Ed](https://www.youtube.com/watch?v=35lXWvCuM8o)
